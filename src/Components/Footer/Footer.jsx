@@ -16,22 +16,22 @@ const Footer = () => {
                     </ul>
                 </div>
                 <div className='footer-col-2 flex flex-col items-start p-4'>
-                    <h3 className='text-lg font-semibold mb-2'>Quick Links</h3>
+                    <h3 className='text-lg text-amber-500 font-semibold mb-2'>Quick Links</h3>
                     <ul>
-                        <li className='mb-2'>Home</li>
-                        <li className='mb-2'>About</li>
-                        <li className='mb-2'>Service</li>
-                        <li className='mb-2'>Contact</li>
-                        <li className='mb-2'>Find Properties</li>
+                        <li className='  hover:text-amber-500 active:text-amber-600 mb-2'>Home</li>
+                        <li className='  hover:text-amber-500 active:text-amber-600 mb-2'>About</li>
+                        <li className='  hover:text-amber-500 active:text-amber-600 mb-2'>Service</li>
+                        <li className='  hover:text-amber-500 active:text-amber-600 mb-2'>Contact</li>
+                        <li className='  hover:text-amber-500 active:text-amber-600 mb-2'>Find Properties</li>
                     </ul>
                 </div>
                 <div className='footer-col-3 flex flex-col items-start p-4'>
-                    <h3 className='text-lg font-semibold mb-2'>Follow Me</h3>
+                    <h3 className='text-lg text-amber-500 font-semibold mb-2'>Follow Me</h3>
                     <ul>
-                        <li className='flex items-center mb-2'><RiFacebookFill /> <span className='ml-2'>Facebook</span></li>
-                        <li className='flex items-center mb-2'><RiInstagramFill /> <span className='ml-2'>Instagram</span></li>
-                        <li className='flex items-center mb-2'><RiYoutubeFill /> <span className='ml-2'>Youtube</span></li>
-                        <li className='flex items-center mb-2'><RiTwitterFill /> <span className='ml-2'>Twitter</span></li>
+                        <li className='flex hover:text-amber-500 active:text-amber-600 items-center mb-2'><RiFacebookFill /> <span className='ml-2'>Facebook</span></li>
+                        <li className='flex hover:text-amber-500 active:text-amber-600 items-center mb-2'><RiInstagramFill /> <span className='ml-2'>Instagram</span></li>
+                        <li className='flex hover:text-amber-500 active:text-amber-600 items-center mb-2'><RiYoutubeFill /> <span className='ml-2'>Youtube</span></li>
+                        <li className='flex hover:text-amber-500 active:text-amber-600 items-center mb-2'><RiTwitterFill /> <span className='ml-2'>Twitter</span></li>
                     </ul>
                 </div>
             </div>
