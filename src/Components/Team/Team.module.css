@@ -1,0 +1,12 @@
+.team {
+    width: 100%;
+    min-height: auto;
+    /* background: linear-gradient(rgba(8, 3, 37, 0.7), rgba(0, 0, 0, .2)), url('../../Assets/service-bg.webp') no-repeat center center/cover; */
+    /* background: linear-gradient(rgba(8, 0, 0, .1), rgba(0, 0, 0, .4), rgba(0, 0, 0, .1)) no-repeat center center/cover; */
+    /* background-color: rgb(245, 158, 11); */
+    background-color: #feffd8;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
